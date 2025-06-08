@@ -43,7 +43,7 @@ This project implements a **Siamese Neural Network** to distinguish between genu
 ## 📚 Dataset
 
 * **Name**: *Handwriting Signature Datasets*
-* **Source**: [KaggleHub](https://www.kaggle.com/datasets)
+* **Source**: [KaggleHub]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/mostafaeltalawy/handwriting-signature))
 * **Description**: Real and forged signature images categorized by signer identity.
 
 ---
